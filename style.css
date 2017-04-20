@@ -1,0 +1,68 @@
+h1,
+h2,
+h3,
+h4 {
+  color: #5233FF;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 42px;
+  margin: 0 0 15px 0;
+}
+
+h2,
+h3,
+h4 {
+  margin: 15px 0 10px 0;
+}
+
+body {
+  color: #888;
+  font: 400 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p,
+ul {
+  margin: 0;
+}
+
+section {
+  display: inline-block;
+  margin: 0 5px 5px 0;
+  width: 450px;
+}
+
+.about_me {
+  display: block;
+  width: 80%;
+}
+
+.future {
+  display: block;
+  width: 60%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 5px;
+}
+
+a {
+  display: block;
+  margin: 20px 0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.capitalize {
+  text-transform: uppercase;
+}
+
+.bugs {
+  margin: 20px 0;
+}
